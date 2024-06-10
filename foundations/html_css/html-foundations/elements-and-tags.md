@@ -20,7 +20,7 @@ Closing tags tell the browser where an element ends. They are almost the same as
 A full paragraph element looks like this:
 
 ```html
-<p>some text content here</p>
+<p>some text content</p>
 ```
 
 Let's break this down:
